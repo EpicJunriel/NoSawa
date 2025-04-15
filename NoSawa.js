@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NoSawa
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Disable and cleanup UltimateChaos and jumpscare.
 // @match        https://s4wa.hatenadiary.jp/*
 // @grant        none
@@ -51,4 +51,7 @@
 
         console.log('*sawa\'s corpse was cleaned up by junriel*');
     });
+
+
+
 })();
